@@ -1,0 +1,42 @@
+210
+120
+201
+021
+102
+012
+Puzzles initialized: 6
+Found solution at step 3
+210
+(0->1)
+(0->1)
+(0->1)
+Found solution at step 4
+120
+(0->1)
+(0->2)
+(1->2)
+(0->2)
+Found solution at step 5
+201
+(0->1)
+(0->1)
+(1->2)
+(0->1)
+(2->1)
+Found solution at step 4
+021
+(0->1)
+(0->2)
+(0->2)
+(1->2)
+Found solution at step 5
+102
+(0->1)
+(0->1)
+(1->2)
+(1->0)
+(2->0)
+Found solution at step 0
+012
+
+
